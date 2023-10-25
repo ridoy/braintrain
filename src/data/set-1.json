@@ -1,0 +1,54 @@
+{
+    "id": "1",
+    "name": "13 Times Table",
+    "questions": [
+        {
+            "question": "13 x 1 = ?",
+            "correctAnswer": "13"
+        },
+        {
+            "question": "13 x 2 = ?",
+            "correctAnswer": "26"
+        },
+        {
+            "question": "13 x 3 = ?",
+            "correctAnswer": "39"
+        },
+        {
+            "question": "13 x 4 = ?",
+            "correctAnswer": "52"
+        },
+        {
+            "question": "13 x 5 = ?",
+            "correctAnswer": "65"
+        },
+        {
+            "question": "13 x 6 = ?",
+            "correctAnswer": "78"
+        },
+        {
+            "question": "13 x 7 = ?",
+            "correctAnswer": "91"
+        },
+        {
+            "question": "13 x 8 = ?",
+            "correctAnswer": "104"
+        },
+        {
+            "question": "13 x 9 = ?",
+            "correctAnswer": "117"
+        },
+        {
+            "question": "13 x 10 = ?",
+            "correctAnswer": "130"
+        },
+        {
+            "question": "13 x 11 = ?",
+            "correctAnswer": "143"
+        },
+        {
+            "question": "13 x 12 = ?",
+            "correctAnswer": "156"
+        }
+    ]
+}
