@@ -2,8 +2,6 @@ import React from 'react';
 import './index.css';
 import reportWebVitals from './reportWebVitals'
 import * as ReactDOM from "react-dom/client";
-import Home from './Home';
-import SetView from './SetView'
 import App from './App';
 
 const root = ReactDOM.createRoot(

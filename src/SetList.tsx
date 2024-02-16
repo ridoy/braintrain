@@ -24,6 +24,7 @@ const SetList = () => {
         </>
     )
 }
+
 const SetListItem = (props: SetListItemProps) => {
     const { setName, setId } = props;
     return (
